@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+    <PackageReference Include="MSTest.TestAdapter" Version="2.1.0" />
+    <PackageReference Include="MSTest.TestFramework" Version="2.1.0" />
+    <PackageReference Include="coverlet.collector" Version="1.2.0" />
+    <PackageReference Include="System.IO.FileSystem" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EasySaveController\EasySaveController.csproj" />
+    <ProjectReference Include="..\EasySaveModel\EasySaveModel.csproj" />
+    <ProjectReference Include="..\EasySaveViews\EasySaveViews.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EasySaveModel\EasySaveModel.csproj" />
+    <ProjectReference Include="..\EasySave\EasySave.csproj" />
+  </ItemGroup>
+</Project>

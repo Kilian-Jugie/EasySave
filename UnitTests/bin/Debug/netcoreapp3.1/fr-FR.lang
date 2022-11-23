@@ -1,0 +1,4 @@
+local.name=Français
+test.hello=Bonjour
+test.world=tout le monde
+test.helloworld.format={0} {1}

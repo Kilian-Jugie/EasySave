@@ -1,0 +1,10 @@
+#.git .vs
+.*/
+*.exe
+*.dll
+*.json
+*.pdb
+
+#Release build should be done in /Release
+*/bin/Release/
+*/obj/

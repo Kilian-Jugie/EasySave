@@ -1,0 +1,5 @@
+local.name=English
+test.hello=Hello
+test.world=world
+test.onlyeng=english world
+test.helloworld.format={0} {1}

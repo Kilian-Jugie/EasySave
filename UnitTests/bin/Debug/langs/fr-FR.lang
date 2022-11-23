@@ -1,0 +1,3 @@
+local.name=Français
+
+console.main.help=Exécutez 'EasySave -h' ou 'EasySave <command> -h' pour afficher le menu d'aide.

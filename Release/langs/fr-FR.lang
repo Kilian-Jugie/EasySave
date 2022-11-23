@@ -1,0 +1,21 @@
+local.name=Français
+
+console.main.help=Exécutez 'EasySave -h' ou 'EasySave <command> -h' pour afficher le menu d'aide.
+
+gui.project.name=Nom du projet
+gui.project.savetype=Type de sauvegarde
+gui.project.source=Chemin source
+gui.project.destination=Chemin de destination
+
+gui.button.load=Charger les sauvegardes
+gui.button.selectall=Sélectionner les sauvegardes
+gui.button.execute=Exécuter les sauvegardes
+gui.button.edit=Editer les sauvegardes
+
+gui.label.currentproject=Projet actuel:
+gui.label.source=Chemin source:
+gui.label.destination=Chemin cible:
+gui.label.savetype=Type:
+gui.label.processprogress=Progression actuelle:
+gui.label.projectsavename=Nom du projet:
+gui.label.create=Créer la sauvegarde

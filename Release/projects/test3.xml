@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Save xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>test3</Name>
+  <PathFrom>D:\Test</PathFrom>
+  <PathTo>D:\TestCopy</PathTo>
+  <Type>DIFFERENTIAL_SAVE</Type>
+</Save>

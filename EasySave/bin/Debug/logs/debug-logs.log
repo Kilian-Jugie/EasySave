@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<log>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 12:25:04 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 12:29:18 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test1' on 06/12/2020 12:29:51 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 12:30:56 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test1' on 06/12/2020 12:36:23 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test1' on 06/12/2020 12:37:54 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test1' on 06/12/2020 12:44:40 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test1' on 06/12/2020 13:06:59 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test1' on 06/12/2020 13:07:22 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test1' on 06/12/2020 16:24:27 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test1' on 06/12/2020 16:32:22 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 16:55:34 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 16:56:03 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 16:58:49 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:00:59 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:05:24 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:10:38 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:11:51 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:12:46 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:13:40 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test2' on 06/12/2020 17:15:45 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: FULL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:17:04 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:17:47 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:25:45 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:27:56 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:28:44 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg level="info">Executing save 'test' on 06/12/2020 17:44:17 with parameters :</msg>
+  <msg level="info">	-From: D:\Test</msg>
+  <msg level="info">	-To: D:\TestCopy</msg>
+  <msg level="info">	-Type: DIFFERENTIAL_SAVE</msg>
+  <msg level="debug"></msg>
+  <msg level="debug">Started with arguments: </msg>
+  <msg level="debug">Loading ../langs as langs folder</msg>
+  <msg level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg level="debug">Loading ../projects as save project folder</msg>
+  <msg level="info">Program terminated successfully</msg>
+  <msg Date="27/11/2020 02:26" level="debug"></msg>
+  <msg Date="27/11/2020 02:26" level="debug">Started with arguments: </msg>
+  <msg Date="27/11/2020 02:26" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="27/11/2020 02:26" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="27/11/2020 02:26" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="27/11/2020 02:26" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="27/11/2020 02:26" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 06:07:50" level="debug"></msg>
+  <msg Date="06/12/2020 06:07:50" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 06:07:50" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 06:07:50" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 06:07:50" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 06:07:50" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 06:07:50" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 06:07:55" level="info">Executing save 'test1' on 06/12/2020 18:07:55 with parameters :</msg>
+  <msg Date="06/12/2020 06:07:55" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 06:07:55" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 06:07:55" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 06:08:58" level="debug"></msg>
+  <msg Date="06/12/2020 06:08:58" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 06:08:58" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 06:08:58" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 06:08:58" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 06:08:58" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 06:08:58" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 06:09:01" level="info">Executing save 'test1' on 06/12/2020 18:09:01 with parameters :</msg>
+  <msg Date="06/12/2020 06:09:01" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 06:09:01" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 06:09:01" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 06:14:10" level="debug"></msg>
+  <msg Date="06/12/2020 06:14:10" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 06:14:10" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 06:14:10" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 06:14:10" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 06:14:10" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 06:14:10" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 06:14:25" level="debug"></msg>
+  <msg Date="06/12/2020 06:14:25" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 06:14:25" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 06:14:25" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 06:14:25" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 06:14:25" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 06:14:25" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 06:20:22" level="info">Executing save 'test1' on 06/12/2020 18:20:20 with parameters :</msg>
+  <msg Date="06/12/2020 06:20:22" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 06:20:22" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 06:20:22" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 06:23:01" level="debug"></msg>
+  <msg Date="06/12/2020 06:23:01" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 06:23:01" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 06:23:01" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 06:23:01" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 06:23:01" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 06:23:02" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 06:23:06" level="info">Executing save 'test1' on 06/12/2020 18:23:05 with parameters :</msg>
+  <msg Date="06/12/2020 06:23:06" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 06:23:06" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 06:23:06" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 09:52:30" level="debug"></msg>
+  <msg Date="06/12/2020 09:52:30" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 09:52:30" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 09:52:30" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 09:52:30" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 09:52:30" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 09:52:30" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 09:52:52" level="info">Executing save 'test1' on 06/12/2020 21:52:50 with parameters :</msg>
+  <msg Date="06/12/2020 09:52:52" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 09:52:52" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 09:52:52" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 09:54:19" level="debug"></msg>
+  <msg Date="06/12/2020 09:54:19" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 09:54:19" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 09:54:19" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 09:54:19" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 09:54:19" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 09:54:19" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 09:54:23" level="info">Executing save 'test1' on 06/12/2020 21:54:21 with parameters :</msg>
+  <msg Date="06/12/2020 09:54:23" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 09:54:23" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 09:54:23" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 09:55:46" level="debug"></msg>
+  <msg Date="06/12/2020 09:55:46" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 09:55:46" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 09:55:46" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 09:55:46" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 09:55:46" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 09:55:46" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 09:55:54" level="info">Executing save 'test1' on 06/12/2020 21:55:53 with parameters :</msg>
+  <msg Date="06/12/2020 09:55:54" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 09:55:54" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 09:55:54" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 09:56:56" level="debug"></msg>
+  <msg Date="06/12/2020 09:56:56" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 09:56:56" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 09:56:56" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 09:56:56" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 09:56:56" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 09:56:57" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 09:57:01" level="info">Executing save 'test1' on 06/12/2020 21:57:00 with parameters :</msg>
+  <msg Date="06/12/2020 09:57:01" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 09:57:01" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 09:57:01" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 09:58:00" level="debug"></msg>
+  <msg Date="06/12/2020 09:58:00" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 09:58:00" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 09:58:00" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 09:58:00" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 09:58:01" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 09:58:01" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 09:58:05" level="info">Executing save 'test1' on 06/12/2020 21:58:03 with parameters :</msg>
+  <msg Date="06/12/2020 09:58:05" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 09:58:05" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 09:58:05" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 09:58:45" level="debug"></msg>
+  <msg Date="06/12/2020 09:58:45" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 09:58:45" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 09:58:45" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 09:58:45" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 09:58:45" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 09:58:46" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 09:58:50" level="info">Executing save 'test1' on 06/12/2020 21:58:49 with parameters :</msg>
+  <msg Date="06/12/2020 09:58:50" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 09:58:50" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 09:58:50" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 10:06:21" level="debug"></msg>
+  <msg Date="06/12/2020 10:06:21" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:06:21" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:06:21" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:06:21" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:06:21" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:06:21" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:06:25" level="info">Executing save 'test1' on 06/12/2020 22:06:24 with parameters :</msg>
+  <msg Date="06/12/2020 10:06:25" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 10:06:25" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 10:06:25" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 10:08:13" level="debug"></msg>
+  <msg Date="06/12/2020 10:08:13" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:08:13" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:08:13" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:08:13" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:08:13" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:08:14" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:09:11" level="debug"></msg>
+  <msg Date="06/12/2020 10:09:11" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:09:11" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:09:11" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:09:11" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:09:11" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:09:12" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:09:51" level="debug"></msg>
+  <msg Date="06/12/2020 10:09:51" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:09:51" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:09:51" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:09:51" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:09:51" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:09:51" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:10:14" level="debug"></msg>
+  <msg Date="06/12/2020 10:10:14" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:10:14" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:10:14" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:10:14" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:10:14" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:10:15" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:11:01" level="debug"></msg>
+  <msg Date="06/12/2020 10:11:01" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:11:01" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:11:01" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:11:01" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:11:01" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:11:01" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:11:28" level="debug"></msg>
+  <msg Date="06/12/2020 10:11:28" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:11:28" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:11:28" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:11:28" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:11:28" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:11:28" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:13:55" level="debug"></msg>
+  <msg Date="06/12/2020 10:13:55" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:13:55" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:13:55" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:13:55" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:13:56" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:13:56" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:14:57" level="debug"></msg>
+  <msg Date="06/12/2020 10:14:57" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:14:57" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:14:57" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:14:57" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:14:57" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:14:58" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:15:32" level="debug"></msg>
+  <msg Date="06/12/2020 10:15:32" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:15:33" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:15:33" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:15:33" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:15:33" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:15:33" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:16:34" level="debug"></msg>
+  <msg Date="06/12/2020 10:16:34" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:16:34" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:16:34" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:16:34" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:16:34" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:16:34" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:16:36" level="info">Executing save 'test1' on 06/12/2020 22:16:36 with parameters :</msg>
+  <msg Date="06/12/2020 10:16:36" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 10:16:36" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 10:16:36" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 10:18:19" level="debug"></msg>
+  <msg Date="06/12/2020 10:18:19" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:18:19" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:18:19" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:18:19" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:18:19" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:18:19" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:18:21" level="info">Executing save 'test1' on 06/12/2020 22:18:21 with parameters :</msg>
+  <msg Date="06/12/2020 10:18:21" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 10:18:21" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 10:18:21" level="info">	-Type: FULL_SAVE</msg>
+  <msg Date="06/12/2020 10:20:12" level="debug"></msg>
+  <msg Date="06/12/2020 10:20:12" level="debug">Started with arguments: </msg>
+  <msg Date="06/12/2020 10:20:12" level="debug">Loading ../langs as langs folder</msg>
+  <msg Date="06/12/2020 10:20:12" level="debug">Loaded lang fr-FR as current lang</msg>
+  <msg Date="06/12/2020 10:20:12" level="debug">Loaded lang en-EN as alternative lang</msg>
+  <msg Date="06/12/2020 10:20:12" level="debug">Loading ../projects as save project folder</msg>
+  <msg Date="06/12/2020 10:20:12" level="info">Program terminated successfully</msg>
+  <msg Date="06/12/2020 10:20:15" level="info">Executing save 'test1' on 06/12/2020 22:20:15 with parameters :</msg>
+  <msg Date="06/12/2020 10:20:15" level="info">	-From: E:\Qt</msg>
+  <msg Date="06/12/2020 10:20:15" level="info">	-To: E:\Copy_Qt</msg>
+  <msg Date="06/12/2020 10:20:15" level="info">	-Type: FULL_SAVE</msg>
+</log>

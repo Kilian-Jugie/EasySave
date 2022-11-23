@@ -1,0 +1,85 @@
+local.name=English
+global.name=EasySave
+
+lang.error.alternative=Could not load the {0} alternative language
+
+console.main.help=Please run 'EasySave -h' or 'EasySave <command> -h' for help menu.
+console.common.help.desc=Display help
+console.common.quiet.desc=Execute without printing success messages
+console.common.help.value=<value>
+console.common.help.subcommand=<subcommand>
+console.command.help.parameters=Parameters
+console.command.help.subcommands=Subcommands
+console.common.unknown.command=Could not find command. Type '-help' or '-h' for help
+console.common.unknown.subcommand=Could not find sub-command. Type '<command> -help' or 'command> -h' for help
+console.common.unknown.parameter=Parameter {0} doest not exist for {1} command
+console.common.unknown.value=Argument {0} is passed as a value whereas there is no parameters to specify value
+console.common.mismatch.value=Parameter {0} does not take a value while {1} is passed as its value
+console.common.required.parameter=Parameter -{0} is required by {1}
+console.common.error=Error: {0}
+console.common.error.fatal=A fatal error occured. Please consult logs.
+command.saves.description=Manage saves projects
+
+command.saves.create=create
+command.saves.create.description=Create a new save project
+command.saves.create.name.description=The name of the save project to create
+command.saves.create.from.description=The path from where to save
+command.saves.create.to.description=The path to where save
+command.saves.create.type.description=The save's project type
+command.saves.create.success=Successfully created a new save project !
+
+command.saves.delete=delete
+command.saves.delete.description=Delete a save project
+command.saves.delete.name.description=Name of project to delete
+command.saves.delete.success=Successfully deleted a save project !
+
+command.saves.edit=edit
+command.saves.edit.description=Edit a save project
+command.saves.edit.name.description=The name of the save project to edit
+command.saves.edit.newname.description=The new name of the project
+command.saves.edit.from.description=The path from where to save
+command.saves.edit.to.description=The path to where save
+command.saves.edit.type.description=The save's project type
+command.saves.edit.success=Successfully edited a save project !
+
+command.saves.list=list
+command.saves.list.description=List all available save projects
+
+command.saves.execute=execute
+command.saves.execute.description=Execute one or more saves
+command.saves.execute.name.description=Save name to execute. If many, separate by commas without spaces (save1,save2,save3)
+command.saves.execute.success=Successfully executed save project(s) !
+
+command.config=config
+command.config.description=Manage program settings
+
+command.config.list=list
+command.config.list.description=List all available settings
+
+command.config.set=set
+command.config.set.description=Set a setting to a value
+command.config.set.name.description=Name of the setting to modify
+command.config.set.value.description=New value for the setting
+command.config.set.success=Successfully edited settings !
+
+localizer.unknown.code=Unknown lang code {0}
+saver.loadall.unknown.extension=No loader found for {0} extension
+saver.writeall.unknown.extension=No writer found for {0} extension
+
+gui.project.name=Project Name
+gui.project.savetype=Save Type
+gui.project.source=Path Source
+gui.project.destination=Path Destination
+
+gui.button.load=Load Saves
+gui.button.selectall=Select All Saves
+gui.button.execute=Execute Save
+gui.button.edit=Edit Save
+
+gui.label.currentproject=Current save project:
+gui.label.source=Source Path:
+gui.label.destination=Destination Path:
+gui.label.savetype=Save Type:
+gui.label.processprogress=Process Progress:
+gui.label.projectsavename=Save project name:
+gui.label.create=Create the save

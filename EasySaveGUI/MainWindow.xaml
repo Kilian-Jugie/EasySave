@@ -1,0 +1,181 @@
+﻿<Window x:Class="EasySaveGUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:data="clr-namespace:EasySave;assembly=EasySaveModel"
+        xmlns:path="clr-namespace:EasySaveGUI"
+        xmlns:local="clr-namespace:EasySaveGUI"
+        mc:Ignorable="d"
+        Title="EasySave" Height="420" Width="765" ResizeMode="NoResize" BorderBrush="LightGray">
+    <Window.Resources>
+        <data:SaveProcessData x:Key="data"/>
+        <path:TempPath x:Key="pathTo"/>
+        <path:TempPath x:Key="pathFrom"/>
+    </Window.Resources>
+    <Grid x:Name="___Grid1_">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20"/>
+            <RowDefinition Height="160"/>
+            <RowDefinition Height="195"/>
+            <RowDefinition Height="10"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0" Height="20">
+            <MenuItem x:Name="___ConfigMenuItem_" Header="Config" Click="___ConfigMenuItem__Click">
+                <MenuItem x:Name="___ParamMenuItem_" Header="Param" Click="___ParamMenuItem__Click"/>
+                <MenuItem x:Name="___LangMenuItem_" Header="Language" Click="___LangMenuItem__Click">
+                </MenuItem>
+                <MenuItem x:Name="___WriteSavesMenuItem_" Header="Write Save" Click="___WriteSavesMenuItem__Click"/>
+                <MenuItem x:Name="___BusinessSoftwareMenuItem_" Header="Business Software" Click="___BusinessSoftwareMenuItem__Click"/>
+            </MenuItem>
+            <MenuItem x:Name="___HelpMenuItem_" Header="Help" Click="___HelpMenuItem__Click"/>
+        </Menu>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="130"/>
+                <RowDefinition Height="30"/>
+            </Grid.RowDefinitions>
+            <ListView x:Name="___ProjectSaveListView_" Grid.Row="0" Margin="10,10,10,0" SelectionMode="Multiple">
+                <ListView.ItemContainerStyle>
+                    <Style TargetType="ListViewItem">
+                        <Setter Property="VerticalContentAlignment" Value="Top"/>
+                    </Style>
+                </ListView.ItemContainerStyle>
+                <ListView.View>
+                    <GridView x:Name="___GridView_">
+                        <GridViewColumn Header="Project Name" DisplayMemberBinding="{Binding Name}"/>
+                        <GridViewColumn Header="Save Type" DisplayMemberBinding="{Binding Type}"/>
+                        <GridViewColumn Header="Path Source" DisplayMemberBinding="{Binding PathFrom}"/>
+                        <GridViewColumn Header="Path Destination" DisplayMemberBinding="{Binding PathTo}"/>
+                    </GridView>
+                </ListView.View>
+            </ListView>
+            <Grid Grid.Row="1" Margin="15,0,15,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="180"/>
+                    <ColumnDefinition Width="180"/>
+                    <ColumnDefinition Width="180"/>
+                    <ColumnDefinition Width="180"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="___LoadSavesProjectButton_" Grid.Column="0" Content="Load Saves" Width="160" Height="20" VerticalAlignment="Center" HorizontalAlignment="Center" Click="___LoadSavesProjectButton__Click"/>
+                <Button x:Name="___SelectAllSaveProjectButton_" Grid.Column="1" Content="Select All Saves" Width="160" Height="20" VerticalAlignment="Center" HorizontalAlignment="Center" Click="___SelectAllSavesButton_Click"/>
+                <Button x:Name="___ExecuteSavesProjectButton_" Grid.Column="2" Content="Execute Save" Width="160" Height="20"  VerticalAlignment="Center" HorizontalAlignment="Center" Click="___ExecuteSavesProjectButton_Click"/>
+                <Button x:Name="___EditOrCreateSaveProjectButton_" Grid.Column="3" Width="160" Height="20" VerticalAlignment="Center" HorizontalAlignment="Center" Click="___EditOrCreateSaveProjectButton_Click"/>
+            </Grid>
+        </Grid>
+        <Grid x:Name="___SaveGrid_" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="360"/>
+                <ColumnDefinition Width="10"/>
+                <ColumnDefinition Width="360"/>
+                <ColumnDefinition Width="10"/>
+            </Grid.ColumnDefinitions>
+            <Grid x:Name="___CurentProjectSaveGrid_" Grid.Column="1" DataContext="{Binding Source={StaticResource data}}" HorizontalAlignment="Center">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition Height="125"/>
+                    <RowDefinition Height="25"/>
+                </Grid.RowDefinitions>
+                <Grid x:Name="___ProjectLabelGrid_" Grid.Row="0">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="125"/>
+                        <ColumnDefinition Width="155"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock x:Name="___CurrentSaveTextBlock_"  HorizontalAlignment="Left" Margin="5,0,0,0" Text="Current project save : " TextWrapping="Wrap" VerticalAlignment="Center" Width="115" Grid.Column="0"/>
+                    <TextBlock x:Name="___CurrentSaveTextBlockMobile_" Text="{Binding Path=SaveName, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Left" Margin="5,0,5,0"   TextWrapping="Wrap" VerticalAlignment="Center" Width="145" Grid.Column="1"/>
+                </Grid>
+                <Grid x:Name="___ProjectDataGrid_" Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="105"/>
+                        <ColumnDefinition Width="185"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid x:Name="___LabelDataGrid_" Grid.Column="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="20"/>
+                        </Grid.RowDefinitions>
+                        <Border Grid.Row="0" BorderBrush="Gray" BorderThickness="0.5" Margin="0,2,0,0">
+                            <TextBlock x:Name="___SourcePath1_" Grid.Row="0" Grid.Column="0" Text="Source Path : " VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5,0,0,0"/>
+                        </Border>
+                        <Border Grid.Row="1" BorderBrush="Gray" BorderThickness="0.5">
+                            <TextBlock x:Name="___DestinationPath1_" Grid.Row="1" Grid.Column="0" Text="Destination Path : " VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5,0,0,0"/>
+                        </Border>
+                        <Border Grid.Row="2" BorderBrush="Gray" BorderThickness="0.5" Margin="0,0,0,2">
+                            <TextBlock x:Name="___SaveType1_" Grid.Row="2" Text="Save Type : " VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5,0,0,2"/>
+                        </Border>
+                    </Grid>
+                    <Grid x:Name="___DataGrid_" Grid.Column="1">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="35"/>
+                            <RowDefinition Height="20"/>
+                        </Grid.RowDefinitions>
+                        <ScrollViewer Grid.Row="0" Grid.RowSpan="4" VerticalScrollBarVisibility="Disabled" HorizontalScrollBarVisibility="Visible"  Margin="0,0,0,5">
+                            <Grid x:Name="___DataScrollGrid_" Grid.RowSpan="2">
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="35"/>
+                                    <RowDefinition Height="35"/>
+                                </Grid.RowDefinitions>
+                                <TextBlock x:Name="___SourcePathTextBlock_" Text="{Binding Path=PathFrom, UpdateSourceTrigger=PropertyChanged}" Grid.Row="0"  VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5,0,5,0"/>
+                                <TextBlock x:Name="___DestinationPathTextBlock_" Text="{Binding Path=PathTo, UpdateSourceTrigger=PropertyChanged}" Grid.Row="1"  VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5,0,5,0"/>
+                            </Grid>
+                        </ScrollViewer>
+                        <Border Grid.Row="0" BorderBrush="Gray" BorderThickness="0.5" Margin="0,2,0,0"/>
+                        <Border Grid.Row="1" BorderBrush="Gray" BorderThickness="0.5"/>
+                        <Border Grid.Row="2" BorderBrush="Gray" BorderThickness="0.5" Margin="0,0,0,2">
+                            <TextBlock Grid.Row="2" Grid.Column="1" x:Name="___SaveTypeTextBlock_" Text="{Binding Path=SaveType, UpdateSourceTrigger=PropertyChanged}"  VerticalAlignment="Center" HorizontalAlignment="Left" Margin="5,0,0,0"/>
+                        </Border>
+                        <Border Grid.Row="3" BorderBrush="Gray" BorderThickness="0.5" Margin="0,-2,0,5" />
+                    </Grid>
+                </Grid>
+                <Grid x:Name="___ProgressGrid_" Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="105"/>
+                        <ColumnDefinition Width="185"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock x:Name="___ProcessProgress_"  Text="Process progess :" Grid.Column="0" Height="20" Width="95"  Margin="5,0,5,0"/>
+                    <ProgressBar x:Name="___SaveProcessProgressBar_" Maximum="{Binding Path=NbTask, UpdateSourceTrigger=PropertyChanged}" Value="{Binding Path=NbClear,UpdateSourceTrigger=PropertyChanged}" Grid.Column="1" HorizontalAlignment="Right" Height="15" VerticalAlignment="Center" Width="185"/>
+                    <TextBlock Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center">
+                        <TextBlock.Text>
+                            <MultiBinding StringFormat="{}{0}/{1}">
+                                <Binding Path="Value" ElementName="___SaveProcessProgressBar_"/>
+                                <Binding Path="Maximum" ElementName="___SaveProcessProgressBar_"/>
+                            </MultiBinding>
+                        </TextBlock.Text>
+                    </TextBlock>
+                </Grid>
+            </Grid>
+            <Grid x:Name="___CreateEditSaveGrid_" Grid.Column="3" Margin="5,0,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="180"/>
+                    <ColumnDefinition Width="50"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                    <RowDefinition Height="35"/>
+                </Grid.RowDefinitions>
+                <TextBlock x:Name="___ProjectSaveName_" Text="Project Save Name :" Grid.Column="0" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" />
+                <TextBox x:Name="___SaveProjectLabel_" BorderThickness="1" BorderBrush="LightGray" Grid.Column="1" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Left" Height="25" Width="180"/>
+                <TextBlock x:Name="___SourcePath_" Text="Source Path :" Grid.Column="0" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" />
+                <TextBox x:Name="___SaveProjectPathFrom_" DataContext="{Binding Source={StaticResource pathFrom}}" Text="{Binding Path=Name,UpdateSourceTrigger=PropertyChanged}" BorderThickness="1" BorderBrush="LightGray" Grid.Column="1" Grid.Row="1" VerticalAlignment="Center" HorizontalAlignment="Left" Height="25" Width="180"/>
+                <Button x:Name="___SearchForSourceFolder_" Grid.Column="2" Grid.Row="1" Height="25" Width="25" Content="..." Click="___SearchForSourceFolder__Click"/>
+                <TextBlock x:Name="___DestinationPath_" Text="Destination Path :" Grid.Column="0" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+                <TextBox x:Name="___SaveProjectPathTo_" DataContext="{Binding Source={StaticResource pathTo}}" Text="{Binding Path=Name,UpdateSourceTrigger=PropertyChanged}" BorderThickness="1" BorderBrush="LightGray" Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalAlignment="Left" Height="25" Width="180"/>
+                <Button x:Name="___SearchForDesinationFolder_" Grid.Column="2" Grid.Row="2" Height="25" Width="25" Content="..." Click="___SearchForDestinationFolder__Click"/>
+                <TextBlock x:Name="___SaveType2_" Text="Save Type :" Grid.Column="0" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left"/>
+                <ComboBox x:Name="___SaveProjectSaveType_" Grid.Column="1" Grid.Row="3" VerticalAlignment="Center" HorizontalAlignment="Left" Height="25" Width="180">
+                    <ComboBoxItem Content="{Binding Path=Name}"/>
+                </ComboBox>
+                <Button x:Name="___ExecuteEditOrCreateSaveProject_" Grid.Column="1" Grid.Row="4" Height="20" Content="Create Save Process"/>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
